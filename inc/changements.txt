@@ -1,0 +1,27 @@
+Ajouter-un-produit.php
+edit-produit.php
+Liste-des-produits.php
+Ajouter-une-entree.php
+Liste-des-entree.php
+edit-client.php
+getprix.php
+
+
+
+
+
+
+
+-DB :----------------------
+table produit : ajouter 
+stock int
+marque text
+code int
+serie text
+
+
+-------- ajouter table : entre ---------------
+id
+produit
+date : text
+qte
